@@ -100,6 +100,17 @@ This repository contains all the files, configurations, and instructions for bui
 
 `For the Installation purpose` [Click here](https://www.waveshare.com/wiki/1.44inch_LCD_HAT#Support)
 
+### Directory Hirarchy
+
+` your_project_folder/
+│
+├── main.py                # Main file with the CLI code
+├── modules/               # Directory for module files
+│   ├── ir_module.py       # IR Module code
+│   ├── nfc_module.py      # NFC Module code
+│   └── rf_module.py       # RF Module code
+`
+
 ---
 
 ## Usage
