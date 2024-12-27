@@ -98,7 +98,7 @@ This repository contains all the files, configurations, and instructions for bui
 
 ### Software Installation
 
-`For the Installation purpose` [Click here](#https://www.waveshare.com/wiki/1.44inch_LCD_HAT#Support)
+`For the Installation purpose` [Click here](https://www.waveshare.com/wiki/1.44inch_LCD_HAT#Support)
 
 ---
 
